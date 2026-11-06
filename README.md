@@ -17,6 +17,12 @@ tesouraria e controladoria.
 | 3 | [Extração de extratos de fundos em PDF](casos/03-extratos-pdf.md) | Controladoria | PyPDF, openpyxl | Fórmulas Excel ajustadas automaticamente |
 | 4 | [Cadeia de cancelamento de boletos](casos/04-cancelamento-boletos.md) | Tesouraria | RPA desktop + web, VBA | Orquestra 3 sistemas |
 | 5 | [Higienização de contatos de cobrança](casos/05-contatos-cobranca.md) | Cobrança | pandas, Selenium, regex | Reenvio automático isolando a linha rejeitada |
+| 6 | [Pacote Python para portal de operadora](casos/06-pacote-portal-operadora.md) | Cadastro | Selenium, setuptools | MFA lido automaticamente do e-mail |
+| 7 | [Zeragem de saldos em ERP web](casos/07-zeragem-saldos-erp.md) | Tesouraria | Selenium, pandas, XML | Automação em Shadow DOM |
+| 8 | [Tabela de preços de medicamentos](casos/08-tabela-precos-medicamentos.md) | Saúde | PyAutoGUI, Key Vault | Retomada sem reprocessar |
+| 9 | [Tabela de preços de materiais com OCR](casos/09-tabela-precos-materiais-ocr.md) | Saúde | OpenCV, Tesseract | Leitura de dado da tela por OCR |
+| 10 | [Coleta de demandas regulatórias](casos/10-demandas-regulatorias.md) | Compliance | Selenium, API de orquestração | Integração com orquestrador |
+| 11 | [Agendador de robôs](casos/11-agendador-robos.md) | Plataforma | schedule, subprocess | Isolamento por processo + heartbeat |
 
 ## Competências demonstradas
 
