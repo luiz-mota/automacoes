@@ -29,9 +29,3 @@ flowchart LR
 
 ## Stack
 Python · PyPDF · pandas · openpyxl
-
-## Resultado
-- [__] extratos processados por mês
-- [__] horas/mês economizadas
-
-**Técnica demonstrada em:** `extrator-pdf-excel` *(em breve)*

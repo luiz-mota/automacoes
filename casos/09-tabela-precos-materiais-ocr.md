@@ -34,6 +34,3 @@ Python · PyAutoGUI · OpenCV · Tesseract (pytesseract) · regex
 
 ## Resultado
 - Atualizações processadas sem digitação manual
-- [__] atualizações importadas por mês
-
-**Técnica demonstrada em:** `rpa-toolkit` *(em breve)*

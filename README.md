@@ -5,8 +5,7 @@ suplementar (2023–2026), cobrindo cadastro de beneficiários, cobrança,
 tesouraria e controladoria.
 
 > O código-fonte pertence à empresa e não é publicado. Cada caso descreve
-> problema, arquitetura e decisões técnicas. As técnicas são demonstradas
-> com código completo nos meus projetos pessoais, linkados em cada caso.
+> o problema, a arquitetura, as decisões técnicas e o resultado.
 
 ## Casos
 

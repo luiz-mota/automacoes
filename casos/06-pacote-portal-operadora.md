@@ -38,6 +38,3 @@ Python · Selenium · setuptools · integração com e-mail corporativo
 
 ## Resultado
 - Reutilizado como dependência por outros robôs
-- [__] execuções por mês sem intervenção para MFA
-
-**Técnica demonstrada em:** `rpa-toolkit` *(em breve)*

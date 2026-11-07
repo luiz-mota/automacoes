@@ -31,6 +31,3 @@ Python · pandas · Selenium · regex
 
 ## Resultado
 - Execução 3× por semana via agendador
-- [__] contatos atualizados por execução
-
-**Técnica demonstrada em:** `conciliador-api` *(em breve)*

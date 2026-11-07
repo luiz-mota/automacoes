@@ -38,6 +38,3 @@ Azure Key Vault · smtplib
 ## Resultado
 - Base de 7+ robôs em produção
 - ~1.050 imagens de referência para automação visual
-- [__] redução no tempo de desenvolvimento de novos robôs
-
-**Técnica demonstrada em:** `rpa-toolkit` *(em breve)*

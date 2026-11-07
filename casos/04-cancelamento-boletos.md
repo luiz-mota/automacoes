@@ -34,6 +34,3 @@ Python · pandas · PyAutoGUI · Selenium · VBA
 
 ## Resultado
 - 3 sistemas integrados sem intervenção manual
-- [__] boletos cancelados por mês
-
-**Técnica demonstrada em:** `rpa-toolkit` *(em breve)*

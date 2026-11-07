@@ -49,7 +49,3 @@ ThreadPoolExecutor · Azure Key Vault
 
 ## Resultado
 - ~90 mil registros conciliados por execução, diariamente
-- [__] horas/mês de trabalho manual eliminadas
-- [__] lotes enviados por mês
-
-**Técnica demonstrada em:** `conciliador-api` *(em breve)*

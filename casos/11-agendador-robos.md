@@ -32,5 +32,3 @@ Python · schedule · subprocess
 ## Resultado
 - 7 robôs agendados num único serviço
 - Alerta automático de indisponibilidade
-
-**Técnica demonstrada em:** `rpa-toolkit` *(em breve)*

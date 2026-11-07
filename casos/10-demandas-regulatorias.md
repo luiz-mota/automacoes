@@ -34,6 +34,3 @@ Python · Selenium · Azure Key Vault · API de orquestração
 
 ## Resultado
 - Execução diária, sem acesso manual ao portal
-- [__] demandas acompanhadas por mês
-
-**Técnica demonstrada em:** `rpa-toolkit` *(em breve)*

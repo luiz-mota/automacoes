@@ -36,6 +36,3 @@ Python · PyAutoGUI (automação visual) · Azure Key Vault · área de trabalho
 
 ## Resultado
 - 5 tabelas atualizadas por edição sem intervenção manual
-- [__] horas economizadas por edição
-
-**Técnica demonstrada em:** `rpa-toolkit` *(em breve)*

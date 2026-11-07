@@ -33,6 +33,3 @@ Python · Selenium · pandas · xml.etree · Oracle
 
 ## Resultado
 - Execução diária automática
-- [__] contas zeradas por mês
-
-**Técnica demonstrada em:** `rpa-toolkit` *(em breve)*
